@@ -18,7 +18,7 @@ public class RealGame {
     }
 
     public static void firstRoom(){
-        System.out.println("You're standing in a dark room. There are two doors in front of you. The one to the left appears to glitter. Behind the other door, you can hear music.");
+        System.out.println("You're standing in a dark room. There are twooo doors in front of you. The one to the left appears to glitter. Behind the other door, you can hear music.");
     }
 
     public static void main(String[] args){
